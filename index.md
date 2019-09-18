@@ -1,4 +1,47 @@
-## Welcome to PAD22
+## Welcome to PAD-22
+PAD-22 is a team of 21 students and Mr. Pennebacker that has a goal of creating an app for PV. The app will have many features that will benefit students and create a better experience throughout school. 
+```markdown
+Recent updates on the app:
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jblasek/Pad22/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
