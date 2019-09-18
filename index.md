@@ -81,6 +81,8 @@ Concept Architect-
 This person will draw out the designs that will be later polished up. 
 This involves UI design to problem solving code.
 ```
+<img src="https://i.gyazo.com/109f67f87ffe953b8eb791e647da98bb.png"
+     width="100" height="125"/>
 ```markdown
 Noah Rosado:
 Art Designer-
