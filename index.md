@@ -13,90 +13,90 @@ CEO
 ```
 ```markdown
 Project Manager:
-COO
+COO-
 The Project Manager is switched each week between students in the class.
 ```
 ```markdown
 Dan:
-Lead Backend Developer
+Lead Backend Developer-
 Writes code and reviews that written by peers
 ```
 ```markdown
 Ethan:
-Information Security Specialist
-Perform security checks on code. Design, implement, and test code to help improve security. Sanitizing <br/>
-input and validating input to prevent xss attacks. Perform analysis and diagnose client issues.
+Information Security Specialist-
+Perform security checks on code. Design, implement, and test code to help improve
+security. Sanitizing input and validating input to prevent xss attacks.
+Perform analysis and diagnose client issues.
 ```
 ```markdown
 Winston:
-Lead Developer
-Manage the Design Process and Organization, Oversee and Coordinate Teams, Set Deadlines and Timelines
+Lead Developer-
+Manage the Design Process and Organization, Oversee and Coordinate Teams,
+Set Deadlines and Timelines.
 ```
 ```markdown
-Dominick, Luke, Alex & Angelo
-Developer/Designer
-Help design and work out how the app will look and function as well as help with programming/debugging.<br/>
-A mix between designer and programmer.
+Dominick, Luke, Alex & Angelo:
+Developer/Designer-
+Help design and work out how the app will look and function as well as help with 
+programming/debugging. A mix between designer and programmer.
 ```
 ```markdown
-Grace
-Marketing Web Developer 
-Is responsible for general web development pertaining to marketing projects and digital marketing. <br/>
-Takes ownership of web development projects. In charge of making the website and making updates as needed.
+Grace:
+Marketing Web Developer- 
+Is responsible for general web development pertaining to marketing projects and 
+digital marketing. Takes ownership of web development projects. In charge of 
+making the website and making updates as needed.
 ```
 ```markdown
-Jacob
-Bug/App Tester 
-The purpose of the Bug Tester is to test the application that is made for any errors, missing details,<br/>
-and to report back how well the user experience is.
+Jacob:
+Bug/App Tester-
+The purpose of the Bug Tester is to test the application that is made for any 
+errors, missing details, and to report back how well the user experience is.
 ```
 ```markdown
-Todd
-Lead Programmer 
-Takes the lead on all the programming done.
+Todd:
+Lead Programmer-
+Takes the lead on all the programming done for the app.
 ```
 ```markdown
-Eric
-Software Engineer
-Someone to create the programming required for each part of an application to run and implement <br/>
-it properly to a greater whole.
+Eric, Sean & Jack:
+Software Engineer-
+Someone to create the programming required for each part of an application to run
+and implement it properly to a greater whole.
 ```
 ```markdown
-Eric, Sean & Jack
-Software Engineer
-Someone to create the programming required for each part of an application to run and implement <br/>
-it properly to a greater whole.
+Keegan:
+Lead Graphic Design-
+The job is to check possible designs of the app as well as logos or pictures.
+It will also be their job to make sure the other designers stay on task and get
+what they need to get done in order for them to move forward with the app.
 ```
 ```markdown
-Keegan
-Lead Graphic Design
-The job is to check possible designs of the app as well as logos or pictures. <br/>
-It will also be their job to make sure the other designers stay on task and get what <br/>
-they need to get done in order for them to move forward with the app.
-```
-```markdown
-Luca & Devon
-Concept Architect
-This person will draw out the designs that will be later polished up. <br/>
+Luca & Devon:
+Concept Architect-
+This person will draw out the designs that will be later polished up. 
 This involves UI design to problem solving code.
 ```
 ```markdown
-Noah
-Art Designer
-Someone with this job would create concept art, logos, and any visual advertisements that are <br/>
-required for our products. They can use their artistic skills from real life and apply them to an online workplace.
+Noah:
+Art Designer-
+Someone with this job would create concept art, logos, and any visual 
+advertisements that are required for our products. They can use their 
+artistic skills from real life and apply them to an online workplace.
 ```
 ```markdown
-Garrett & Sam
-Ui/Ux Architect
-Managing thematic design based user interfaces, advertisements, and user experience.<br/>
-Assisting and/or leading design projects and cooperating with coders and designers.
+Garrett & Sam:
+Ui/Ux Architect-
+Managing thematic design based user interfaces, advertisements, and user 
+experience. Assisting and/or leading design projects and cooperating 
+with coders and designers.
 ```
 ```markdown
-Brian
-Lead Quality Assurance
-As a quality assurance lead, He will be monitoring the development of our application in order <br/>
-to ensure that it meets the needs of our client, and satisfies the quality guidelines that people expect from us.
+Brian:
+Lead Quality Assurance-
+As a quality assurance lead, He will be monitoring the development of our 
+application in order to ensure that it meets the needs of our client, 
+and satisfies the quality guidelines that people expect from us.
 ```
 
 
