@@ -9,7 +9,8 @@ The first year team:
 <br/>
 ```markdown
 Mr. Pennebacker:
-CEO
+CEO-
+Boss of all of us..
 ```
 ```markdown
 Project Manager:
