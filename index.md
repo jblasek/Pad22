@@ -3,7 +3,7 @@ PAD-22 is Perkiomen Valley's App Design class. The first year it started was in 
 <br/>
 The first year of App Design, the class decided to make an app specific to PV. It helps students and teachers so that whatever they do daily is made easier through the app. They have features like a map around the school, HAC, virtual Hall pass, announcements, and etc.
 <br/>
-Here is some information about the [app!](pvapp.md)
+Here is some information about the [app!](pvapp.md) ← Click
 <br/>
 The first year team:
 <br/>
