@@ -25,9 +25,8 @@ Writes code and reviews that written by peers
 ```markdown
 Ethan:
 Information Security Specialist-
-Perform security checks on code. Design, implement, and test code to help improve
-security. Sanitizing input and validating input to prevent xss attacks.
-Perform analysis and diagnose client issues.
+Perform security checks on code. Design, implement, and test code to help
+improve security. Perform analysis and diagnose client issues.
 ```
 ```markdown
 Winston:
@@ -38,15 +37,15 @@ Set Deadlines and Timelines.
 ```markdown
 Dominick, Luke, Alex & Angelo:
 Developer/Designer-
-Help design and work out how the app will look and function as well as help with 
-programming/debugging. A mix between designer and programmer.
+Help design and work out how the app will look and function as well as help 
+with programming/debugging. A mix between designer and programmer.
 ```
 ```markdown
 Grace:
 Marketing Web Developer- 
-Is responsible for general web development pertaining to marketing projects and 
-digital marketing. Takes ownership of web development projects. In charge of 
-making the website and making updates as needed.
+Is responsible for general web development pertaining to marketing projects 
+and digital marketing. Takes ownership of web development projects. In 
+charge of making the website and making updates as needed.
 ```
 ```markdown
 Jacob:
@@ -62,15 +61,16 @@ Takes the lead on all the programming done for the app.
 ```markdown
 Eric, Sean & Jack:
 Software Engineer-
-Someone to create the programming required for each part of an application to run
-and implement it properly to a greater whole.
+Someone to create the programming required for each part of an application to 
+run and implement it properly to a greater whole.
 ```
 ```markdown
 Keegan:
 Lead Graphic Design-
 The job is to check possible designs of the app as well as logos or pictures.
-It will also be their job to make sure the other designers stay on task and get
-what they need to get done in order for them to move forward with the app.
+It will also be their job to make sure the other designers stay on task and
+get what they need to get done in order for them to move forward with the
+app.
 ```
 ```markdown
 Luca & Devon:
