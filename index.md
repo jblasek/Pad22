@@ -12,6 +12,8 @@ Mr. Pennebacker:
 CEO-
 Boss of all of us..
 ```
+![GitHub Logo](http://www.pvsd.org/_/rsrc/1567615253543/staff/dan-pennebacker/myAvatar.png?height=200&width=200)
+Format: ![Alt Text](url)
 ```markdown
 Project Manager:
 COO-
