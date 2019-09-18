@@ -2,7 +2,7 @@
 PAD-22 is Perkiomen Valley's App Design class. The first year it started was in the 2019-2020 school year. The class is taught by Mr. Pennebacker. 
 <br/>
 The first year of App Design, the class decided to make an app specific to PV. It helps students and teachers so that whatever they do daily is made easier through the app. They have features like a map around the school, HAC, virtual Hall pass, announcements, and etc.
-Here is some information about the [pvapp](pvapp.md)
+Here is some information about the [App](pvapp.md).
 <br/>
 The first year team:
 <br/>
@@ -23,7 +23,8 @@ Writes code and reviews that written by peers
 ```markdown
 Ethan:
 Information Security Specialist
-Perform security checks on code. Design, implement, and test code to help improve security. Sanitizing input and validating input to prevent xss attacks. Perform analysis and diagnose client issues.
+Perform security checks on code. Design, implement, and test code to help improve security. Sanitizing <br/>
+input and validating input to prevent xss attacks. Perform analysis and diagnose client issues.
 ```
 ```markdown
 Winston:
@@ -33,7 +34,8 @@ Manage the Design Process and Organization, Oversee and Coordinate Teams, Set De
 ```markdown
 Dominick, Luke, Alex & Angelo
 Developer/Designer
-Help design and work out how the app will look and function as well as help with programming/debugging. A mix between designer and programmer.
+Help design and work out how the app will look and function as well as help with programming/debugging.<br/>
+A mix between designer and programmer.
 ```
 
 
