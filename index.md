@@ -5,7 +5,7 @@ The first year of App Design, the class decided to make an app specific to PV. I
 <br/>
 Here is some information about the [app!](pvapp.md) ← Click
 <br/>
-## The first year team:
+### The first year team:
 <br/>
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(0,203,255);">Mr. Pennebacker:</span>
