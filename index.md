@@ -85,9 +85,10 @@ Someone with this job would create concept art, logos, and any visual
 advertisements that are required for our products. They can use their 
 artistic skills from real life and apply them to an online workplace.
 ```
-
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Garrett Kline & Sam Devers:</span>
+ </div>
 ```markdown
-Garrett Kline & Sam Devers:
 Ui/Ux Architect-
 Managing thematic design based user interfaces, advertisements, and user 
 experience. Assisting and/or leading design projects and cooperating 
