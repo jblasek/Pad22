@@ -54,8 +54,6 @@ Bug/App Tester-
 The purpose of the Bug Tester is to test the application that is made for any 
 errors, missing details, and to report back how well the user experience is.
 ```
-<img src="http://avatars.design/wp-content/uploads/2016/09/avatar1b.jpg"
-     width="100" height="100"/>
 ```markdown
 Todd Kocher:
 Lead Programmer-
@@ -81,8 +79,6 @@ Concept Architect-
 This person will draw out the designs that will be later polished up. 
 This involves UI design to problem solving code.
 ```
-<img src="https://i.gyazo.com/109f67f87ffe953b8eb791e647da98bb.png"
-     width="100" height="125"/>
 ```markdown
 Noah Rosado:
 Art Designer-
