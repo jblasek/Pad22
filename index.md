@@ -85,6 +85,7 @@ Someone with this job would create concept art, logos, and any visual
 advertisements that are required for our products. They can use their 
 artistic skills from real life and apply them to an online workplace.
 ```
+
 ```markdown
 Garrett Kline & Sam Devers:
 Ui/Ux Architect-
@@ -100,8 +101,7 @@ application in order to ensure that it meets the needs of our client,
 and satisfies the quality guidelines that people expect from us.
 ```
  <div style="background-color:rgba(0, 0, 0, 0.0470588);">
- <a href="/blog">Recent updates on the app:</a>
- </div>
+Recent updates on the app:
 
 ```markdown
 -Working on figuring everything out
