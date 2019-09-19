@@ -130,13 +130,15 @@ application in order to ensure that it meets the needs of our client,
 and satisfies the quality guidelines that people expect from us.
 ```
 ## -The Different Teams-
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Research:</span>
+ </div>
 ```markdown
-Research:
 
 
 ```
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
- <span style="color: rgb(255,204,0);">Recent updates on the app:</span>
+ <span style="color: rgb(0,203,255);">Recent Updates on the App:</span>
  </div>
 ```markdown
 -Working on figuring everything out
