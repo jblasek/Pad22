@@ -132,6 +132,12 @@ and satisfies the quality guidelines that people expect from us.
  <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(255,204,0);">Recent updates on the app:</span>
  </div>
+## -The Different Teams-
+```markdown
+Research:
+
+
+```
 ```markdown
 -Working on figuring everything out
 
