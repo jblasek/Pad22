@@ -129,15 +129,15 @@ As a quality assurance lead, He will be monitoring the development of our
 application in order to ensure that it meets the needs of our client, 
 and satisfies the quality guidelines that people expect from us.
 ```
- <div style="background-color:rgba(0, 0, 0, 0.0470588);">
- <span style="color: rgb(255,204,0);">Recent updates on the app:</span>
- </div>
 ## -The Different Teams-
 ```markdown
 Research:
 
 
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Recent updates on the app:</span>
+ </div>
 ```markdown
 -Working on figuring everything out
 
