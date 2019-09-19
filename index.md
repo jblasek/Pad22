@@ -15,7 +15,7 @@ CEO-
 Boss of all of us..
 ```
  <div style="background-color:rgba(0, 0, 0, 0.0470588);">
- <span style="color: rgb(0,203,255);">Project Manager:</span>
+ <span style="color: rgb(255,204,0);">Project Manager:</span>
  </div>
 ```markdown
 COO-
