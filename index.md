@@ -99,11 +99,12 @@ As a quality assurance lead, He will be monitoring the development of our
 application in order to ensure that it meets the needs of our client, 
 and satisfies the quality guidelines that people expect from us.
 ```
-
+ <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
+ <a href="/blog">Recent updates on the app:</a>
+ </div>
 
 ```markdown
-Recent updates on the app:
-
+-Working on figuring everything out
 
 
 ```
