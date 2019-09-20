@@ -134,20 +134,18 @@ and satisfies the quality guidelines that people expect from us.
  <span style="color: rgb(255,204,0);">Research:</span>
  </div>
 ```markdown
-The Research team made forms and gave them out to students
-to see what features that they want or what features
-they would think are useful. They took that data and
-gave it to the XD team to make into tabs and put
-what the school wanted into the app.
+The Research team made forms and gave them out to students to see what 
+features that they want or what features they would think are useful. 
+They took that data and gave it to the XD team to make into tabs 
+and put what the school wanted into the app.
 ```
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(0,203,255);">XD/Graphics:</span>
  </div>
 ```markdown
-The XD team takes researches data and creates the apps
-design. They make a layout of what the app will look
-like and how it will function. The graphics part
-of the team makes the app look good and professional.
+The XD team takes researches data and creates the apps design. They 
+make a layout of what the app will look like and how it will function.
+The graphics part of the team makes the app look good and professional.
 ```
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(255,204,0);">Development:</span>
