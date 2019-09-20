@@ -5,81 +5,107 @@ The first year of App Design, the class decided to make an app specific to PV. I
 <br/>
 Here is some information about the [app!](pvapp.md) ← Click
 <br/>
-The first year team:
+### The first year team:
 <br/>
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Mr. Pennebacker:</span>
+ </div>
 ```markdown
-Mr. Pennebacker:
 CEO-
 Boss of all of us..
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Project Manager:</span>
+ </div>
 ```markdown
-Project Manager:
 COO-
 The Project Manager is switched each week between students in the class.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Dan Allison:</span>
+ </div>
 ```markdown
-Dan Allison:
 Lead Backend Developer-
 Writes code and reviews that written by peers
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Ethan Hinz:</span>
+ </div>
 ```markdown
-Ethan Hinz:
 Information Security Specialist-
 Perform security checks on code. Design, implement, and test code to help
 improve security. Perform analysis and diagnose client issues.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Winston Onsei-Bonsu:</span>
+ </div>
 ```markdown
-Winston Onsei-Bonsu:
 Lead Developer-
 Manage the Design Process and Organization, Oversee and Coordinate Teams,
 Set Deadlines and Timelines.
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Dominick Discuillo, Luke Speers, Alex Loss & Angelo Lim:</span>
+ </div>
 ```markdown
-Dominick Discuillo, Luke Speers, Alex Loss & Angelo Lim:
 Developer/Designer-
 Help design and work out how the app will look and function as well as help 
 with programming/debugging. A mix between designer and programmer.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Grace Ramsey:</span>
+ </div>
 ```markdown
-Grace Ramsey:
 Marketing Web Developer- 
 Is responsible for general web development pertaining to marketing projects 
 and digital marketing. Takes ownership of web development projects. In 
 charge of making the website and making updates as needed.
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Jacob Blasek:</span>
+ </div>
 ```markdown
-Jacob Blasek:
 Bug/App Tester-
 The purpose of the Bug Tester is to test the application that is made for any 
 errors, missing details, and to report back how well the user experience is.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Todd Kocher:</span>
+ </div>
 ```markdown
-Todd Kocher:
 Lead Programmer-
 Takes the lead on all the programming done for the app.
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Eric Larsen, Sean Oplinger & Jack Hodson:</span>
+ </div>
 ```markdown
-Eric Larsen, Sean Oplinger & Jack Hodson:
 Software Engineer-
 Someone to create the programming required for each part of an application to 
 run and implement it properly to a greater whole.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Keegan Scott:</span>
+ </div>
 ```markdown
-Keegan Scott:
 Lead Graphic Design-
 The job is to check possible designs of the app as well as logos or pictures.
 It will also be their job to make sure the other designers stay on task and
 get what they need to get done in order for them to move forward with the
 app.
 ```
+ <div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Luca Schein-Becker & Devon Ott:</span>
+ </div>
 ```markdown
-Luca Schein-Becker & Devon Ott:
 Concept Architect-
 This person will draw out the designs that will be later polished up. 
 This involves UI design to problem solving code.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Noah Rosado:</span>
+ </div>
 ```markdown
-Noah Rosado:
 Art Designer-
 Someone with this job would create concept art, logos, and any visual 
 advertisements that are required for our products. They can use their 
@@ -94,15 +120,25 @@ Managing thematic design based user interfaces, advertisements, and user
 experience. Assisting and/or leading design projects and cooperating 
 with coders and designers.
 ```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Brian Barnefiher:</span>
+ </div>
 ```markdown
-Brian Barnefiher:
 Lead Quality Assurance-
 As a quality assurance lead, He will be monitoring the development of our 
 application in order to ensure that it meets the needs of our client, 
 and satisfies the quality guidelines that people expect from us.
 ```
- <div style="background-color:rgba(0, 0, 0, 0.0470588);">
- <span style="color: rgb(255,204,0);">Recent updates on the app:</span>
+## -The Different Teams-
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(255,204,0);">Research:</span>
+ </div>
+```markdown
+
+
+```
+<div style="background-color:rgba(0, 0, 0, 0.0470588);">
+ <span style="color: rgb(0,203,255);">Recent Updates on the App:</span>
  </div>
 ```markdown
 -Working on figuring everything out
