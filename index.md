@@ -151,8 +151,8 @@ The graphics part of the team makes the app look good and professional.
  <span style="color: rgb(255,204,0);">Development:</span>
  </div>
 ```markdown
-The Development team makes/codes XD's design and creates the
-app according to how the XD's design looks and functions.
+The Development team makes/codes XD's design and creates the app according
+to how the XD's design looks and functions.
 ```
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(0,203,255);">Recent Updates on the App:</span>
