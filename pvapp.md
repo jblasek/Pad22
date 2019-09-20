@@ -23,12 +23,13 @@ The navigator feature will create a basic replica of the school that will specif
 Many 9th graders coming into the highschool understand where their classes are but do not know how to get there in a reasonable time. The map will get rid of this issue by finding a fast route to their class. The map is going to be very basic, and only show hallways and where the front door of the classroom is. The user can select there current location and then the destination they want to go to. The app will calculate a route and the student can follow it. 
 
 ## Personal Profiles
-
+Personal profiles will be used to dipsplay useful information to the student. It will have the ability to incorporate home access center for easy grade access, show debt to the school, etc. (We should use a system where we can have it display library books that a student has and give them the due date/fine for it)
 
 ### Why personal profiles?
-
+A personal profile will give very useful information to a student that is very easy to use and follow. It also puts all of the information into one space and adds other features that have not been inplemented into the school before. This will allow for a better school experience and less money that the parents will owe to the school.
 
 ## ID
-The ID page of our app is for 
+The ID section of our app will create a virtual identification for the student. It wil be used for going out in the hallways, paying for lunch, checking out library book, etc.
 
 ### Why an ID?
+There is a tendency for many students to shy away from using their IDs. A lot of the student body does not like wearing their ID and will commonly forget it in various locations. Having a virtual ID kept inside of the app will ensure that the student can use a valid ID and paper will not have to be wasted for replacements. The ID will also have other uses that will speed up the process of other common school tasks. 
