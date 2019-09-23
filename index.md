@@ -1,5 +1,5 @@
 <div class="topnav">
-  <font size="6">
+  <font size="4">
   <a class="active" href="#home">Home</a>
   <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
   <a href="#contact">Contact</a>
