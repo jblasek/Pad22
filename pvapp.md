@@ -1,3 +1,12 @@
+<div class="topnav">
+  <font size="4">
+  <a class="active" href="#home">Home</a>
+  <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  </font>
+</div>
+<br/>
 # The Perkiomen Valley App
 The Perkiomen Valley App is being made for the purpose to help fix many of the issues that are commonly found in the Valley. This app specifically wants to tackle the topic of centralizing the needs and wants of the Perkiomen students. 
 
