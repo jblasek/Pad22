@@ -1,6 +1,6 @@
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html/">App</a>
+  <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
