@@ -27,7 +27,7 @@ their deli for lunch in advance. This will also let users see their
 current balance, as well as add to it.
 ```
 <span style = "color: rgb(128,0,128);">
-Why a digital deli
+## Why a digital deli
 </span>
 ```markdown
 In our student survey, many responses were heard which spoke of 
