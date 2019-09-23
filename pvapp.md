@@ -7,7 +7,7 @@ The home page of the PV app will contain a calendar to see important
 news that is general to PV and there will be a schedule section. The 
 schedule section will include club meeting times, library times, etc.
 ```
-<span style = "color: rgb(211,211,211); font-size: 22px">
+<span style = "color: rgb(169,169,169); font-size: 20px">
 Why a home page?
 </span>
 ```markdown
@@ -26,7 +26,7 @@ The Digital Deli system will allow users the oppurtunity to order
 their deli for lunch in advance. This will also let users see their 
 current balance, as well as add to it.
 ```
-<span style = "color: rgb(211,211,211); font-size: 22px">
+<span style = "color: rgb(169,169,169); font-size: 20px">
 Why a digital deli
 </span>
 ```markdown
@@ -43,7 +43,7 @@ will specifically show class rooms. There will be a feature where a
 starting classroom and a destination classroom are inputed and the 
 fastest route will be calculated.
 ```
-<span style = "color: rgb(211,211,211); font-size: 22px">
+<span style = "color: rgb(169,169,169); font-size: 20px">
 Why a navigator?
   </span>
 ```markdown
@@ -63,7 +63,7 @@ for easy grade access, show debt to the school, etc. (We should use a
 system where we can have it display library books that a student has 
 and give them the due date/fine for it)
 ```
-<span style = "color: rgb(211,211,211); font-size: 22px">
+<span style = "color: rgb(169,169,169); font-size: 20px">
 Why personal profiles?
 </span>
 ```markdown
@@ -79,7 +79,7 @@ The ID section of our app will create a virtual identification for the
 student. It wil be used for going out in the hallways, paying for lunch, 
 checking out library book, etc.
 ```
-<span style = "color: rgb(211,211,211); font-size: 22px">
+<span style = "color: rgb(169,169,169); font-size: 20px">
 Why an ID?
 </span>
 ```markdown
