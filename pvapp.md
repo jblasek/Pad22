@@ -26,7 +26,9 @@ The Digital Deli system will allow users the oppurtunity to order
 their deli for lunch in advance. This will also let users see their 
 current balance, as well as add to it.
 ```
-### Why a digital deli
+<span style = "color: rgb(1,1,1);">
+Why a digital deli
+</span>
 ```markdown
 In our student survey, many responses were heard which spoke of 
 struggles in the lunch line. There were many complaints about long 
