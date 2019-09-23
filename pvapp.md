@@ -8,8 +8,9 @@ The home page of the PV app will contain a calendar to see important
 news that is general to PV and there will be a schedule section. The 
 schedule section will include club meeting times, library times, etc.
 ```
-
-### Why a home page?
+<span style = "color: rgb(128,0,128); font-size: 22px">
+Why a home page?
+</span>
 ```markdown
 In the student survey that was conducted, there was a question that 
 asked what feature the students would want to see the most. The 
@@ -26,7 +27,7 @@ The Digital Deli system will allow users the oppurtunity to order
 their deli for lunch in advance. This will also let users see their 
 current balance, as well as add to it.
 ```
-<span style = "color: rgb(128,0,128); font-size: 24px">
+<span style = "color: rgb(128,0,128); font-size: 22px">
 Why a digital deli
 </span>
 ```markdown
@@ -43,7 +44,9 @@ will specifically show class rooms. There will be a feature where a
 starting classroom and a destination classroom are inputed and the 
 fastest route will be calculated.
 ```
-### Why a navigator?
+<span style = "color: rgb(128,0,128); font-size: 22px">
+Why a navigator?
+  </span>
 ```markdown
 Many 9th graders coming into the highschool understand where their 
 classes are but do not know how to get there in a reasonable time. 
@@ -61,7 +64,9 @@ for easy grade access, show debt to the school, etc. (We should use a
 system where we can have it display library books that a student has 
 and give them the due date/fine for it)
 ```
-### Why personal profiles?
+<span style = "color: rgb(128,0,128); font-size: 22px">
+Why personal profiles?
+</span>
 ```markdown
 A personal profile will give very useful information to a student that 
 is very easy to use and follow. It also puts all of the information
@@ -75,7 +80,9 @@ The ID section of our app will create a virtual identification for the
 student. It wil be used for going out in the hallways, paying for lunch, 
 checking out library book, etc.
 ```
-### Why an ID?
+<span style = "color: rgb(128,0,128); font-size: 22px">
+Why an ID?
+</span>
 ```markdown
 There is a tendency for many students to shy away from using their IDs. 
 A lot of the student body does not like wearing their ID and will 
