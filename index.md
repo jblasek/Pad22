@@ -1,6 +1,6 @@
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a class="active" href=[app!](pvapp.md)>App</a>
+  <a class="active" href="https://css-snippets.com/simple-horizontal-navigation/">App</a>
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
