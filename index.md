@@ -2,7 +2,7 @@
   <a class="active" href="#home">Home</a>
   <a class="active" href="pvapp.md">App</a>
   <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a href="#about">About Us</a>
 </div>
 <br/>
 ## Welcome to PAD-22
