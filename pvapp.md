@@ -26,7 +26,7 @@ The Digital Deli system will allow users the oppurtunity to order
 their deli for lunch in advance. This will also let users see their 
 current balance, as well as add to it.
 ```
-<span style = "color: rgb(1,1,1);">
+<span style = "color: rgb(128,0,128);">
 Why a digital deli
 </span>
 ```markdown
