@@ -7,7 +7,7 @@
   </font>
 </div>
 <br/>
-### The first year team:
+## The first year team:
 <br/>
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(0,203,255);">Mr. Pennebacker:</span>
