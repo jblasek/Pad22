@@ -103,4 +103,4 @@ and paper will not have to be wasted for replacements. The ID will
 also have other uses that will speed up the process of other common 
 school tasks. 
 ```
-<img src="https://i.ibb.co/DLw7yCj/pad22.png" alt="pad22">
+<img src="https://i.ibb.co/CzfjLzm/Pad-22-LOGO.png" alt="Pad-22-LOGO">
