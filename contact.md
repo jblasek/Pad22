@@ -37,7 +37,10 @@
 ## Q: Does the app pull any personal information from your phone?
 ## A: The app has to pull information from your PVSD account but will not take anything without asking for permission.
 
-## Q: 
+## Q: Does the app only have use for the student or does it help staff and/or parents?
+## A: There are features in the app that are used by students and teachers while the parents can check grades and use the integrated map for meet the teacher night.
+
+
 
 # Contact Information 
 If you have any questions, concerns, idea, or anything inbetween please email Mr. Pennebacker at dpennebacker@pvsd.org[](mailto:dpennebacker@pvsd.org). If you have concerns and Mr. Pennebacker is unavailable for any reason, try and talk to the members of the app design course and they might be able to contact Mr. Pennebacker. Go to the about page to find who the current team is.
