@@ -10,6 +10,9 @@
 
 # Frequently Asked Questions
 
+## Q: What is the PV App for?
+## A: The PV App adds many features for the every day PV student like a digital ID and ordering food online. For more information, go to the PV App page on our website.
+
 ## Q: Where can I download the PV App?
 ## A: You can download the app on the IOS App store, the Google Play Store, as well as the PVSD HS website.
 
@@ -31,6 +34,10 @@
 ## Q: Is the app made exclusively by PV students?
 ## A: Yes, most of the work on the app is done during the class of App Design.
 
+## Q: Does the app pull any personal information from your phone?
+## A: The app has to pull information from your PVSD account but will not take anything without asking for permission.
+
+## Q: 
 
 # Contact Information 
 If you have any questions, concerns, idea, or anything inbetween please email Mr. Pennebacker at dpennebacker@pvsd.org[](mailto:dpennebacker@pvsd.org). If you have concerns and Mr. Pennebacker is unavailable for any reason, try and talk to the members of the app design course and they might be able to contact Mr. Pennebacker. Go to the about page to find who the current team is.
