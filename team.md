@@ -2,12 +2,12 @@
   <font size="4">
   <a class="active" href="https://jblasek.github.io/Pad22/">Home</a>
   <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
-  <a href="#contact">Contact</a>
+  <a href="https://jblasek.github.io/Pad22/contact.html">Contact</a>
    <a href="https://jblasek.github.io/Pad22/team.html">Team</a>
   </font>
 </div>
 <br/>
-### The first year team:
+## The first year team:
 <br/>
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(0,203,255);">Mr. Pennebacker:</span>

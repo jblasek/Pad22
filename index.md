@@ -2,7 +2,7 @@
   <font size="4">
   <a class="active" href="#home">Home</a>
   <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
-  <a href="#contact">Contact</a>
+  <a href="https://jblasek.github.io/Pad22/contact.html">Contact</a>
   <a href="https://jblasek.github.io/Pad22/team.html">Team</a>
   </font>
 </div>
@@ -22,3 +22,5 @@ Here is some information about the [app!](pvapp.md) ← Click
 
 
 ```
+<img src="https://i.ibb.co/DLw7yCj/pad22.png" alt="pad22">
+

@@ -2,7 +2,7 @@
   <font size="4">
   <a class="active" href="https://jblasek.github.io/Pad22/">Home</a>
   <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
-  <a href="#contact">Contact</a>
+  <a href="https://jblasek.github.io/Pad22/contact.html">Contact</a>
   <a href="https://jblasek.github.io/Pad22/team.html">Team</a>
   </font>
 </div>
@@ -103,3 +103,4 @@ and paper will not have to be wasted for replacements. The ID will
 also have other uses that will speed up the process of other common 
 school tasks. 
 ```
+<img src="https://i.ibb.co/DLw7yCj/pad22.png" alt="pad22">
