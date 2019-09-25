@@ -2,7 +2,7 @@
   <font size="4">
   <a class="active" href="#home">Home</a>
   <a class="active" href="https://jblasek.github.io/Pad22/pvapp.html">App</a>
-  <a href="https://jblasek.github.io/Pad22/contact.html">Contact</a>
+  <a class="active" href="https://jblasek.github.io/Pad22/contact.html">Contact</a>
   <a href="https://jblasek.github.io/Pad22/team.html">Team</a>
   </font>
 </div>
