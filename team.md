@@ -156,5 +156,5 @@ The graphics part of the team makes the app look good and professional.
 The Development team makes/codes XD's design and creates the app according
 to how the XD's design looks and functions.
 ```
-<center><img src="https://i.ibb.co/cwQJwQf/teamm.png" alt="teamm" class="center" style="width:800px;height:500px;"></center>
+<center><img src="https://i.ibb.co/cwQJwQf/teamm.png" alt="teamm" class="center" style="width:700px;height:400px;"></center>
   
