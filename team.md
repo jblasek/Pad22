@@ -131,7 +131,7 @@ As a quality assurance lead, He will be monitoring the development of our
 application in order to ensure that it meets the needs of our client, 
 and satisfies the quality guidelines that people expect from us.
 ```
-## -The Different Teams--
+## -The Different Teams-
 <div style="background-color:rgba(0, 0, 0, 0.0470588);">
  <span style="color: rgb(255,204,0);">Research:</span>
  </div>
@@ -156,5 +156,5 @@ The graphics part of the team makes the app look good and professional.
 The Development team makes/codes XD's design and creates the app according
 to how the XD's design looks and functions.
 ```
-<center><img src="https://i.ibb.co/bPZSQFv/team.png" alt="team" class="center" style="width:300px;height:300px;"></center>
+<center><img src="https://i.ibb.co/cwQJwQf/teamm.png" alt="teamm" class="center" style="width:300px;height:300px;"></center>
   
