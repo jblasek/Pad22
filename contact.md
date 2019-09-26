@@ -10,12 +10,12 @@
 
 # Frequently Asked Questions
 <br/>
+
 <div style= "color: rgb(0,203,255); font-size: 20px"> 
 Q: What is the PV App for? 
 </div>
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
-A: The PV App adds many features for the every day PV student like a digital ID and ordering food online. For more information, go to the PV App page on our website.
 
+A: The PV App adds many features for the every day PV student like a digital ID and ordering food online. For more information, go to the PV App page on our website.
 
 <br/>
 
