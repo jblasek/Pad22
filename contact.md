@@ -25,7 +25,7 @@ A: The PV App adds many features for the every day PV student like a digital ID 
 Q: Where can I download the PV App?
 </div>  
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(0,113,255); font-size: 20px"> 
 A: You can download the app on the IOS App store, the Google Play Store, as well as the PVSD HS website.
 </div> 
 
