@@ -11,7 +11,7 @@
 # Frequently Asked Questions
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: What is the PV App for? 
 </div>
 
@@ -21,7 +21,7 @@ A: The PV App adds many features for the every day PV student like a digital ID 
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Where can I download the PV App?
 </div>  
 
@@ -31,7 +31,7 @@ A: You can download the app on the IOS App store, the Google Play Store, as well
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Can I download the app on my Chromebook?
 </div>  
 
@@ -41,7 +41,7 @@ A: Unfortunately, our app is not supported on the ChromeOS.
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Does the PV App cost money?
 </div>  
 
@@ -51,7 +51,7 @@ A: The app itself does not cost money, however, there are transactions within th
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Can I use this app instead of wearing my PV ID?
 </div>  
 
@@ -61,7 +61,7 @@ A: No, you must still be wearing your PV ID at all times.
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: I have a good idea for your app. Where can I submit it?
 </div>   
 
@@ -71,7 +71,7 @@ A: You can send the PAD-22 team an email at [].
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Is it required to download your app?
 </div>   
 
@@ -81,7 +81,7 @@ A: Currently, no. However, downloading the app will improve your PV lifestyle.
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Is the app made exclusively by PV students?
 </div>   
 
@@ -91,7 +91,7 @@ A: Yes, most of the work on the app is done during the class of App Design.
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Does the app pull any personal information from your phone?
 </div> 
 
@@ -101,7 +101,7 @@ A: The app has to pull information from your PVSD account but will not take anyt
 
 <br/>
 
-<div style= "color: rgb(0,203,255); font-size: 20px"> 
+<div style= "color: rgb(255,141,30); font-size: 20px"> 
 Q: Does the app only have use for the student or does it help staff and/or parents?  
 </div>  
 
