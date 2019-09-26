@@ -13,34 +13,82 @@
 <div style= "color: rgb(0,203,255); font-size: 20px"> 
 Q: What is the PV App for? 
 </div>
-## A: The PV App adds many features for the every day PV student like a digital ID and ordering food online. For more information, go to the PV App page on our website.
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+A: The PV App adds many features for the every day PV student like a digital ID and ordering food online. For more information, go to the PV App page on our website.
+
+
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Where can I download the PV App?
-## A: You can download the app on the IOS App store, the Google Play Store, as well as the PVSD HS website.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Where can I download the PV App?
+</div>  
+
+A: You can download the app on the IOS App store, the Google Play Store, as well as the PVSD HS website.
+  
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Can I download the app on my Chromebook?
-## A: Unfortunately, our app is not supported on the ChromeOS.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Can I download the app on my Chromebook?
+</div>  
+
+A: Unfortunately, our app is not supported on the ChromeOS.
+  
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Does the PV App cost money?
-## A: The app itself does not cost money, however, there are transactions within the app.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Does the PV App cost money?
+</div>  
+
+A: The app itself does not cost money, however, there are transactions within the app.
+  
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Can I use this app instead of wearing my PV ID?
-## A: No, you must still be wearing your PV ID at all times.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Can I use this app instead of wearing my PV ID?
+</div>  
+
+A: No, you must still be wearing your PV ID at all times.
+ 
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: I have a good idea for your app. Where can I submit it?
-## A: You can send the PAD-22 team an email at [].
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: I have a good idea for your app. Where can I submit it?
+</div>   
+
+A: You can send the PAD-22 team an email at [].
+
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Is it required to download your app?
-## A: Currently, no. However, downloading the app will improve your PV lifestyle.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Is it required to download your app?
+</div>   
+
+A: Currently, no. However, downloading the app will improve your PV lifestyle.
+  
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Is the app made exclusively by PV students?
-## A: Yes, most of the work on the app is done during the class of App Design.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Is the app made exclusively by PV students?
+</div>   
+
+A: Yes, most of the work on the app is done during the class of App Design.
+  
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Does the app pull any personal information from your phone?
-## A: The app has to pull information from your PVSD account but will not take anything without asking for permission.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Does the app pull any personal information from your phone?
+</div> 
+
+A: The app has to pull information from your PVSD account but will not take anything without asking for permission.
+
 <br/>
-<div style= "color: rgb(0,203,255); font-size: 20px"> Q: Does the app only have use for the student or does it help staff and/or parents?
-## A: There are features in the app that are used by students and teachers while the parents can check grades and use the integrated map for meet the teacher night.
+
+<div style= "color: rgb(0,203,255); font-size: 20px"> 
+Q: Does the app only have use for the student or does it help staff and/or parents?  
+</div>  
+
+A: There are features in the app that are used by students and teachers while the parents can check grades and use the integrated map for meet the teacher night.
+
 <br/>
 
 
