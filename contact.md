@@ -94,4 +94,5 @@ A: There are features in the app that are used by students and teachers while th
 
 # Contact Information 
 If you have any questions, concerns, idea, or anything inbetween please email Mr. Pennebacker at dpennebacker@pvsd.org[](mailto:dpennebacker@pvsd.org). If you have concerns and Mr. Pennebacker is unavailable for any reason, try and talk to the members of the app design course and they might be able to contact Mr. Pennebacker. Go to the about page to find who the current team is.
+<center><img src="https://i.ibb.co/3MVrKFc/contact.png" alt="contact" class="center" style="width:300px;height:300px;"></center>
 
