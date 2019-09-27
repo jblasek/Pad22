@@ -64,8 +64,8 @@ classes are but do not know how to get there in a reasonable time.
 The map will get rid of this issue by finding a fast route to their 
 class. The map is going to be very basic, and only show hallways and
 where the front door of the classroom is. The user can select there 
-current location and then the destination they want to go to. The app
-will calculate a route and the student can follow it. 
+current location and then the destination they want to go to. The 
+navigator will calculate a route and the student can follow it. 
 ```
 ## Personal Profiles
 ```markdown
