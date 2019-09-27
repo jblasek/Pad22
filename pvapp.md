@@ -10,12 +10,12 @@
 <!--
 how to link things[sample text](https://url.url) 
 -->
-# The Perkiomen Valley App
-The Perkiomen Valley App is being made for the purpose to help fix many of the issues that are commonly found in the Valley. This app specifically wants to tackle the topic of centralizing the needs and wants of the Perkiomen students. 
+# The PV Pocket
+The PV Pocket is being made for the purpose to help fix many of the issues that are commonly found in the Valley. This app specifically wants to tackle the topic of centralizing the needs and wants of the Perkiomen students. 
 
 ## Home
 ```markdown
-The home page of the PV app will contain a calendar to see important 
+The home page of the PV Pocket will contain a calendar to see important 
 news that is general to PV and there will be a schedule section. The 
 schedule section will include club meeting times, library times, etc.
 ```
