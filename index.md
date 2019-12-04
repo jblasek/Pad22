@@ -20,7 +20,7 @@ Here is some information about the [app!](pvapp.md) ← Click
 ```markdown
 -Working on the UI 
 -Using Xcode to create the app
--Working on the map for the navigation tool
+-Working on recreating the map for the navigation tool
 -Getting team shirts in the next day or two
 -Preparing for the meeting with the principals/superintendents
 ```
