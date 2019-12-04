@@ -18,9 +18,11 @@ Here is some information about the [app!](pvapp.md) ← Click
  <span style="color: rgb(0,203,255);">Recent Updates on the App:</span>
  </div>
 ```markdown
--Working on figuring everything out
-
-
+-Working on the UI 
+-Using Xcode to create the app
+-Working on the map for the navigation tool
+-Getting team shirts in the next day or two
+-Preparing for the meeting with the principals/superintendents
 ```
 <img src="https://i.ibb.co/DLw7yCj/pad22.png" alt="pad22">
 
